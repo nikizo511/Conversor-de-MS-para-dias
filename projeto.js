@@ -13,4 +13,4 @@ const formatDuration = ms => {
       .join(', ');
   };
 
-  console.log(formatDuration(10012123124311))
+  console.log(formatDuration(1001211))
